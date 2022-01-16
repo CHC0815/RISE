@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Buildings/House.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Buildings/Tower.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Buildings/TownCenter.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Buildings/Wall.jpg</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/fps_font.spritefont</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Quad.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/RISELOGO.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/BerryBush.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Bush.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Dirt.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Grass.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/GrassAtl.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Hill.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Mountain.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Pine.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Sand.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Stone.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Tree.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Tiles/Water.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/UI/Button/Button_clicked.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/UI/Button/Button_normal.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/UI/MouseRectangle.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Units/worker.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Units/worker_hovered.png</File>
+    <File>F:/Conrad/c++2/RISE/RISE/Content/Units/worker_selected.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
